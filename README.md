@@ -20,3 +20,14 @@ A custom version for Xerpi's ds4vita: https://github.com/xerpi/ds4vita
 1. Just press the PS button and it will connect to the Vita
 
 **Note**: If you use Mai, don't put the plugin inside ux0:/plugins because Mai will load all stuff you put in there...
+
+
+Changes:
+
+R2 as R
+
+L2 as L
+
+L1 volume down
+
+R2 volume up
