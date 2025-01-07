@@ -1,4 +1,4 @@
-# Ds4Vita-Unofficial_Mod
+# Ds4Vita-mod
 A custom version for Xerpi's ds4vita: https://github.com/xerpi/ds4vita
 
 **Enable the plugin:**
